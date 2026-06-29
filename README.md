@@ -29,6 +29,16 @@ The application enables users to organize projects using Kanban boards, manage t
 
 ---
 
+# 🌐 Live Demo
+
+**Frontend (Vercel):**
+https://taskflow-assignment-tau.vercel.app/
+
+**Backend API (Render):**
+https://taskflow-backend-fwtd.onrender.com
+
+---
+
 # 📑 Table of Contents
 
 - [Assignment Objectives](#-assignment-objectives)
